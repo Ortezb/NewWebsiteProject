@@ -6,21 +6,21 @@
 
 
 $('document').ready(function() {
-    $('.yeah').css('background-color', 'red');
+    $('.yeah').css('background-color', 'white');
 
     $('#superHumans').accordion({header: "h3"});
 
     $('#superHumans').css('width', '400px');
 
-    $('h3').css('background', 'red');
+    $('h3').css('background', 'white');
 
-    $('div:last p:nth-child(3)').css('background-color', 'red');
+    $('div:last p:nth-child(3)').css('background-color', 'white');
 
     $('p:last').css('color', 'black');
 
     $('p:gt(1)').css('border-style', 'solid');
 
-    $('p:first').css({'background-color': 'red', 'color': 'black'});
+    $('p:first').css({'background-color': 'white', 'color': 'black'});
 
     $('.2').css({'visibility': 'hidden', 'position': 'absolute'});
 
