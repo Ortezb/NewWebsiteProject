@@ -1,4 +1,4 @@
-/*The div,container,and row colors don't need to be showed.*/
+/*The div,container,and row colors don't need to be showed*/
  /*div {
     border-style: solid;
     border-width: 5px;
@@ -19,19 +19,20 @@
 }
 */
 
+/*The border, margin-top, and margin-bottom*/
 .list-group-item {
     border: 0;
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
-/*The images' width and height.*/
+/*The images' width and height*/
 img {
     width: 700px;
     height: auto;
 }
 
-/*The body,#index2,and #index3 are the same color background.*/
+/*The body, #index2, and #index3 are the same color background*/ 
 body {
     background-image: url("");
 }
