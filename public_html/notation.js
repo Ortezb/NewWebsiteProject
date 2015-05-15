@@ -5,6 +5,7 @@
  */
 
 
+//Colors, backgrounds, borders, etc.
 $('document').ready(function() {
     $('.yeah').css('background-color', 'white');
 
@@ -76,5 +77,5 @@ function mouseOutMe() {
 }
 
 function mouseClick() {
-    $('p').html('My name is Brandon and this is my jquery page.');
+    $('p').html('My name is Brandon and this is my jquery page.'); //Comments
 }
