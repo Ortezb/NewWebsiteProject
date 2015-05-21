@@ -32,7 +32,7 @@ img {
     height: auto;
 }
 
-/*The body, #index2, and #index3 are the same color background*/ 
+/*The body, #index2, #index3, and #index4 are the same color background*/ 
 body {
     background-image: url("");
 }
@@ -47,5 +47,9 @@ a {
 }
 
 #index3 {
+    background-image: url("");
+}
+
+#index4 {
     background-image: url("");
 }
