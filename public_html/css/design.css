@@ -34,7 +34,7 @@ img {
 
 /*The body, #index2, #index3, and #index4 are the same color background*/ 
 body {
-    background-image: url("");
+    background-image: url("http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Scitech/876/493/The%20Everything%20Store%20cover.jpg?ve=1&tl=1");
 }
 
 a {
@@ -43,13 +43,18 @@ a {
 }
 
 #index2 {
-    background-image: url("");                     
+    background-image: url("http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Scitech/876/493/The%20Everything%20Store%20cover.jpg?ve=1&tl=1");                     
 }
 
 #index3 {
-    background-image: url("");
+    background-image: url("http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Scitech/876/493/The%20Everything%20Store%20cover.jpg?ve=1&tl=1");
 }
 
 #index4 {
-    background-image: url("");
+    background-image: url("http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Scitech/876/493/The%20Everything%20Store%20cover.jpg?ve=1&tl=1");
+}
+
+iframe {
+    width: 600px;
+    height: 180px;
 }
