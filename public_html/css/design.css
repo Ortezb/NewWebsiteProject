@@ -58,3 +58,11 @@ iframe {
     width: 600px;
     height: 180px;
 }
+
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
